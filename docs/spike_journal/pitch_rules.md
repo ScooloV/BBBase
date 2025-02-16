@@ -93,6 +93,7 @@ When the Frozen side is in play, the following rules are used: if a player moves
 These rules represent a pitch with a bit of a drainage problem! If both players agree, they can use the following rules in place of the Weather table in the Blood Bowl rulebook for the duration of the match.
 
 The Goblin pitch has two sides – one flooded, the other relatively dry. At the start of the match, the dry(ish) side of the board is used; there are no additional rules. Whenever the rules call for a roll on the Weather table (at the start of the game, and each time a Changing Weather Kick-off Event table result is rolled), roll on the table below instead.
+
 | 2D6 | Result                                                                                                            |
 |------|-------------------------------------------------------------------------------------------------------------------|
 | 2‑5  | **Dazzling Sun:** The sun has come out but it is dazzling the players, who had grown accustomed to the gloom. A -1 modifier applies to all Passing Ability tests. |
