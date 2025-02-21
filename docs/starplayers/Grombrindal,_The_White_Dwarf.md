@@ -8,9 +8,9 @@
 
 * [Block]
 * [Dauntless]
-* [Grab]
 * [Loner] (4+)
 * [Mighty Blow] (+1)
+* [Stand Firm]
 * [Thick Skull]
 * **Wisdom of the White Dwarf**
 
