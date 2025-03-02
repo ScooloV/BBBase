@@ -80,7 +80,9 @@ nav:
       - 'Blitz Bowl': 'blitz_bowl/index.md'
       - 'Components': 'blitz_bowl/components.md'
       - 'The Rules of Blitz Bowl': 'blitz_bowl/rules.md'
+      - 'Drill Cards': 'blitz_bowl/drill_cards.md'
       - 'Teams': 'blitz_bowl/teams.md'
+      - 'Cards': 'blitz_bowl/cards.md'
   - Gutter Bowl:
     - 'Gutter Bowl': 'gutter_bowl/index.md'
     - 'The Rules': 'gutter_bowl/rules.md'
