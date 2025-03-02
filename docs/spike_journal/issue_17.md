@@ -24,7 +24,7 @@ Whenever a player attempts to pick up, pass, catch or hand-off the ball, or atte
 
 All Inducements should be allowed in the Fey Forest Cup; in fact, they should be actively encouraged! In addition, if the league commissioner wishes, the following new Inducement may be added:
 
-#### 0-1 Healing Spites 
+#### 0-1 Healing Spites
 
 **(50,000 Gold Pieces)**
 

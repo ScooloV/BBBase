@@ -85,13 +85,13 @@ The majority of stadia belonging to the Amazonians are located deep within the L
 
 The Overgrown Jungle pitch has two sides: one depicting the pitch in fair (if somewhat humid) weather, with the jungle being relatively quiet. The other side depicts the pitch during a sudden downpour, making the jungle floor treacherous underfoot and coaxing many of the jungle critters from their hiding places. If both coaches agree, the following rules can be used to represent the unusual conditions:
 
-**Jungle Floor:** At the start of the game, the jungle floor is covered in vines and undergrowth, many of which contain small jungle creatures having an afternoon nap to escape the heat. Rousing these critters can prove to be dangerous, with a large number of them being particularly venomous! 
+**Jungle Floor:** At the start of the game, the jungle floor is covered in vines and undergrowth, many of which contain small jungle creatures having an afternoon nap to escape the heat. Rousing these critters can prove to be dangerous, with a large number of them being particularly venomous!
 
 Whenever a player enters a square within two squares of a trapdoor during their activation, they must roll a D6. On a 2+, nothing happens. On a 1, the player's activation immediately ends as they try not to alarm the creatures they have just woken up.
 
 Additionally, at the end of each drive, roll a D6. On a 5+, flip the pitch over to the Torrential Downpour side for the remainder of the game.
 
-**Torrential Downpour:** The constant rain makes it hard for even the most skilled players to pick up the ball from the jungle floor. Players must apply an additional -1 modifier to their Agility test when attempting to pick up the ball. 
+**Torrential Downpour:** The constant rain makes it hard for even the most skilled players to pick up the ball from the jungle floor. Players must apply an additional -1 modifier to their Agility test when attempting to pick up the ball.
 
 Additionally, the heavy rain has woken many of the jungle's more deadly creatures, who now lurk in the treelines around the pitch in the hope of a mid-game snack. Add 1 to any Injury roll made for a player who is pushed into the crowd.
 

@@ -1,5 +1,4 @@
 # Swiftvine Glimmershard
- 
 
 | 110K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

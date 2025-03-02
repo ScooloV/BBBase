@@ -32,9 +32,9 @@ Each Chaos god gives its own benefits to the teams that choose them as their pat
 
 All Inducements should be allowed in the Cursed Skull Goblet. Additionally, if the league commissioner wishes, the following new Inducement may be added:
 
-#### 0-1 Chaos Totem 
+#### 0-1 Chaos Totem
 
-**(50,000 Gold Pieces)** 
+**(50,000 Gold Pieces)**
 
 **Available to any team:** Some coaches will carry trinkets or tokens in reverence to the Dark Gods, and some are imbued with malevolent powers.
 

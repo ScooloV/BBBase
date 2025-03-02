@@ -22,9 +22,9 @@ For the duration of the Dark Lands Derby, coaches apply a +1 modifier when rolli
 
 All Inducements should be allowed in the Dark Lands Derby. Additionally, if the league commissioner wishes, the following new Inducement may be added:
 
-#### 0-1 Chaos Dwarf Sorcerer 
+#### 0-1 Chaos Dwarf Sorcerer
 
-**(150,000 Gold Pieces) Available To Any Team** 
+**(150,000 Gold Pieces) Available To Any Team**
 
 Once per game, a Chaos Dwarf Sorcerer may cast one of the two spells listed below at the end of either player's team turn, before the next one begins:
 
@@ -58,7 +58,7 @@ At the beginning of each half, gain one additional team re-roll.
 | 11         | **Choking Smog:** The industrial mining operations of the Chaos Dwarfs have massively reduced the already poor air quality in the region, making breathing even more difficult. While this weather condition is in effect, players may not Rush. |
 | 12         | **Tectonic Tremors:** Local seismic activity is causing the ground to rumble and shake, making footing treacherous at best. At the end of every team turn, roll a D6 for each Standing player on the active team currently on the pitch. On a 1, that player loses their balance and is Placed Prone. |
 
-### The Dark Lands Kick-Off Event  
+### The Dark Lands Kick-Off Event
 
 | **2D6** | **RESULT**                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -48,7 +48,7 @@ If Agmund's Apothecary is your chosen sponsor, you can hire a Wandering Apotheca
 
 All Inducements should be allowed in the Icebowl. Additionally, if the league commissioner wishes, the following new Inducement may be added:
 
-#### 0-1 Norscan Seer 
+#### 0-1 Norscan Seer
 
 **(50,000 Gold Pieces)**
 

@@ -32,22 +32,22 @@ During the post-game sequence, if your noble wins their wager, your team will ea
 
 All Inducements should be allowed in the Crimson Chalice Challenge. Additionally, if the League Commissioner wishes, the following new Inducement may be added:
 
-#### 0-1 Wandering Haemomancer 
+#### 0-1 Wandering Haemomancer
 
 **(150,000 Gold Pieces)**
 
-**Available to Any Team:**  
+**Available to Any Team:**
 
 Once per game, a Wandering Haemomancer can cast one of the two spells listed below at the end of either player's team turn, before the next one begins:
 
-**Blood Puppet:** Target any opposition player that is not holding the ball and roll a D6:  
+**Blood Puppet:** Target any opposition player that is not holding the ball and roll a D6:
 
-- On a roll of 2+, you may immediately move the chosen player up to 3 squares, ignoring Tackle Zones.  
+- On a roll of 2+, you may immediately move the chosen player up to 3 squares, ignoring Tackle Zones.
 - On a 1, the player manages to shrug off the magic and the spell has no effect.
 
-**Blood Curse:** Target any opposition player that is not holding the ball and roll a D6:  
+**Blood Curse:** Target any opposition player that is not holding the ball and roll a D6:
 
-- On a roll of 3+, you may immediately make an Injury roll against the selected player, treating any Casualty result as Badly Hurt.  
+- On a roll of 3+, you may immediately make an Injury roll against the selected player, treating any Casualty result as Badly Hurt.
 - On a 1 or 2, the player has a momentary dizzy spell as the blood rushes to their head, but is otherwise unaffected.
 
 ### Many Glorious Prizes!

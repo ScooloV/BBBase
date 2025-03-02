@@ -102,7 +102,7 @@ The Goblin pitch has two sides – one flooded, the other relatively dry. At the
 
 If the board is flipped to its Flooded side, the following rules are in play for the remainder of the game:
 
-- If a player is Knocked Down while Rushing or Dodging, subtract 1 from the result of the Armour roll.  
+- If a player is Knocked Down while Rushing or Dodging, subtract 1 from the result of the Armour roll.
 - In addition, whenever a player recovers from being Stunned, roll a D6. On a roll of 1, lying face-down in the water has done them no favours, and they remain Stunned for another turn.
 
 ---
@@ -235,12 +235,12 @@ The Snotling pitch has two sides – one depicting it in fair weather; though it
 
 **Fungal Bloom:** Do not roll on the Weather table at the start of the game; instead the game starts with Perfect Conditions. Whenever the rules call for a roll on the Weather table (for example, at the start of the game, each time a Changing Weather Kick-off result is rolled or any other effect, such as a Special Play card), do not roll on the Weather table. Instead, flip the pitch over to the Choking Spores side.
 
-**Choking Spores:** A cloud of choking spores has erupted from the fungi on the pitch, making it hard to breathe and potentially forcing some players to leave the pitch to catch their breath.  
+**Choking Spores:** A cloud of choking spores has erupted from the fungi on the pitch, making it hard to breathe and potentially forcing some players to leave the pitch to catch their breath.
 
-At the start of each team's drive when this rule is in effect, roll a D6. On the roll of a 1, randomly select a player from the active team without the ball. That player is forced to leave the pitch and is placed in the Reserves box. This does not cause a Turnover.  
+At the start of each team's drive when this rule is in effect, roll a D6. On the roll of a 1, randomly select a player from the active team without the ball. That player is forced to leave the pitch and is placed in the Reserves box. This does not cause a Turnover.
 Should another Changing Weather result be rolled, roll as normal on the Weather table.
 
-Additionally, to represent the boggy state of the pitch and the fact that players' footing will be tested, the following rule is in play during games played on the Snotling pitch:  
+Additionally, to represent the boggy state of the pitch and the fact that players' footing will be tested, the following rule is in play during games played on the Snotling pitch:
 
 **Snotling Bog:** Whenever a player suffers the Push Back result from a Block action or Blitz action, roll a D6. On a 1, the player loses their footing and falls – treat the result as POW! instead.
 

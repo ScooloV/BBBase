@@ -90,7 +90,7 @@ Stadia and pitches throughout the lands of Sylvania differ greatly from those el
 
 The Necromantic Horror Nightmare pitch has two sides – one depicting the pitch in fair weather; though the game is played at dusk. The other side depicts the pitch at night-time, when the pitch becomes more 'restless'. If both players agree, the following rules can be used to represent the unusual conditions:
 
-**Fading Light** 
+**Fading Light**
 
 At the start of the game it is dusk; the sun is setting and the shadows grow long in the fading light. This makes it slightly trickier to pass the ball long distances accurately, and so all players suffer an additional -1 penalty when making a Long pass or Long bomb. At the end of the first half, flip the board over to the Dead of Night side.
 
